@@ -40,7 +40,7 @@ The data was collected utilizing a VR-integrated semi-physical driving simulatio
 
 ## 🛣️ Critical Scenarios
 
-The dataset focuses on three highly dynamic and complex long-tail scenarios that challenge a driver's situational awareness and decision-making[cite: 10, 11]:
+The dataset focuses on three highly dynamic and complex long-tail scenarios that challenge a driver's situational awareness and decision-making:
 1. **Scenario A (Highway Cut-in)**: The ego vehicle follows a lead car on a highway while being pressured by a vehicle behind honking. A front-right vehicle abruptly cuts in, forcing a choice between braking or swerving into a high-speed left lane.
 2. **Scenario B (Blind-Spot Pedestrian)**: The ego vehicle prepares to turn right at an intersection when a pedestrian suddenly emerges from a right-side blind spot, forcing a decision between emergency braking or accelerating to pass.
 3. **Scenario C (Lane-Changing Game)**: The ego vehicle and a right-lane vehicle both intend to merge into a vacant middle lane to overtake slow traffic, triggering a tactical interaction and game-theoretic decision process.
@@ -49,7 +49,7 @@ The dataset focuses on three highly dynamic and complex long-tail scenarios that
 
 ## 🗂️ Data Structure & Composition
 
-The dataset provides synchronous multimodal data streams. Visual sensors are sampled at **10 Hz**, while ego-vehicle states and behaviors are logged at a high frequency of **80 Hz**[cite: 18, 19].
+The dataset provides synchronous multimodal data streams. Visual sensors are sampled at **10 Hz**, while ego-vehicle states and behaviors are logged at a high frequency of **80 Hz**.
 
 | Category | Content & Description | Format |
 | :--- | :--- | :--- |
