@@ -63,5 +63,6 @@ The dataset provides synchronous multimodal data streams. Visual sensors are sam
 
 ---
 
+## 👥 Contributors
 
 
