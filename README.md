@@ -22,7 +22,7 @@ The dataset is publicly available at [this link](https://drive.google.com/drive/
 - **Multimodal Alignment**: Synchronizes vehicle sensors, control behaviors, 3D eye-tracking vectors, and multi-dimensional emotional scales (SAM & DES).
 - **High-Risk Critical Scenarios**: Carefully designs specific traffic safety events (e.g., cut-ins under pressure, blind-spot pedestrians, lane-changing games) to induce high cognitive load and rich cognitive behaviors.
 - **First-Person Cognitive Narrations**: Captures genuine decision-making thought processes via post-experiment interviews and Critical Decision Methods (CDM), authentically reconstructing the driver's dynamic thinking without relying on synthetic/post-hoc bias.
-- **White-Box Cognitive Modeling**: Accompanied by formalized ACT-R knowledge chunks and production rules, bridging the gap between internal reasoning and observable actions, and evaluated in closed-loop CARLA simulations.
+- **Formalized Cognitive Knowledge**: Provides formalized ACT-R knowledge chunks and production rules to bridge the gap between internal reasoning and observable actions.
 - **Detailed Driver Profiling**: Includes comprehensive metadata for 34 participants, covering demographics, driving styles, and personality traits (MBTI and Big Five).
 
 ---
